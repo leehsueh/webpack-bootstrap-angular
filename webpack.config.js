@@ -9,7 +9,7 @@ module.exports = {
 	entry: [
 		'bootstrap/less/bootstrap.less',
 		'./styles.less',
-		'./core/bootstrap.js',
+		'./index.js',
 	],
 	output: {
 		path: APP,
